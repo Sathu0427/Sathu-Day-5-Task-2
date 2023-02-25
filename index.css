@@ -1,0 +1,116 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    background-color:darkcyan;
+    width: 100%;
+}
+.header-div h3{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 500;
+}
+b{
+    color:red;
+}
+.form-group{
+    margin-left: 3px;
+    font-weight: bold;
+}
+.form-group input{
+    border: 1px;
+    border-color: black;
+    border-radius: 2px;
+}
+.experience-div{
+    margin-left: 3px;
+}
+.experience-div span{
+    font-weight: bold;
+}
+.experience-div .fa-star{
+    color: orange;
+}
+.container-fluid .result{
+    display:flex;
+}
+.result span{
+    display: flex;
+    justify-content: space-evenly;
+}
+.container-fluid .result1{
+    display: flex;
+    margin-top: 20px;
+}
+.result1 span{
+    padding-top: 2px;
+    background-color:darkgray;
+    height: 30px;
+}
+.container-fluid .result2{
+    display: flex;
+    margin-top: 10px;
+}
+.result2 span{
+    padding-top: 2px;
+    background-color: #fff;
+    height: 30px;
+}
+.container-fluid .result3{
+    display: flex;
+    margin-top: 10px;
+}
+.result3 span{
+    padding-top: 2px;
+    background-color: darkgray;
+    height: 30px;
+}
+.container-fluid .result4{
+    display: flex;
+}
+.result4 span{
+    display: flex;
+    justify-content: space-evenly;
+}
+.container-fluid .result5{
+    display: flex;
+    margin-top: 20px;
+}
+.result5 span{
+    padding-top: 2px;
+    background-color:darkgray;
+    height: 30px;
+}
+.container-fluid .result6{
+    display: flex;
+    margin-top: 10px;
+}
+.result6 span{
+    padding-top: 2px;
+    background-color: #fff;
+}
+.container-fluid .result7{
+    display: flex;
+    margin-top: 10px;
+}
+.result7 span{
+    padding-top: 2px;
+    background-color: darkgray;
+}
+.comment-div{
+    margin-left: 3px;
+}
+.comment-div p b{
+    color:black;
+}
+textarea{
+    border: 2px solid;
+    background-color: #fff;
+    height: 100px;
+}
+.comment-div button{
+    width: 10%;
+    background-color: darkgray;
+}
+
+ 
